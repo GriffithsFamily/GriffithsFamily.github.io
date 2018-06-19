@@ -1,0 +1,35 @@
+After modifying the Controls.con file, these are the NUMBERPAD keystrokes and commands:
+
+Q 5 Enemy Spotted
+Q 4 5 Thanks
+Q 4 2 5 Need Medic
+Q 4 8 5 Roger
+Q 4 8 8 5 Need Backup
+Q 6 5 Sorry
+Q 6 2 5 Need Ammo
+Q 6 8 5 Negative
+Q 6 8 8 5 Need Ride/Get In
+Q 2 5 Follow Me
+Q 8 5 Go Go Go
+
+Q 0 5 Boat
+Q 0 8 5 Soldier
+Q 0 8 8 5 Heli
+Q 0 8 8 8 5 Plane
+Q 0 8 8 8 8 5 Tank
+Q 0 2 5 Vehicle
+Q 0 2 2 5 APC
+Q 0 2 2 2 5 Anti-Air
+Q 0 2 2 2 2 5 Sniper
+
+And the Squad Leader keys:
+
+T 5 Attack This Position
+T 2 5 Defense
+T 8 5 Move to This Position
+T 4 8 5 Supplies Needed
+T 4 2 5 Repairs Needed
+T 4 8 8 5 UAV Requested
+T 6 5 Need Orders
+T 6 5 Destroy (Demolition)
+T 6 8 5 Artillery
